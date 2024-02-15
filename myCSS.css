@@ -2,45 +2,45 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
         margin: 0 auto;
-        font: 100%/1.4 Apple Chancery, cursive;}
+        font: 100 %/1.4 Apple Chancery, cursive;}
 
 .homePage {
         background: #596159;
 }
 .container {
-      width: 960px;
+      width: 960 px;
       margin: 0 auto;
 }
 .header {
     background: #98A698;
     text-align: center;
-    margin: center 100px;
+    margin: 0 px;
     padding: 5;
     float: left;
-    width: 100%;
-    height: 80px;
+    width: 100 %;
+    height: 80 px;
 }
 .nav {
     background: #D8EBD8;
-    margin: 0px;
+    margin: 0 px;
     padding: 5;
     float: left;
-    width: 100%;
-    height: 60px;
+    width: 100 %;
+    height: 60 px;
     text-align: center;
 }
 .content {
     background: #DFF2DF;
-    margin: 0px;
+    margin: 10 px;
     float: left;
-    width: 100%;
+    width: 100 %;
     text-align: left;
 }
 .footer {
     background: #98A698;
-    margin: 0px;
+    margin: 0 px;
     float: left;
-    width: 100%;
+    width: 100 %;
     text-align: center;
 }
 a:link {
